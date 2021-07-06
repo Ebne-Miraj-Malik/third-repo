@@ -1,3 +1,20 @@
 .color{color: chocolate;}
 
+h1{font-size: 50 px;}
+
 body{font-family: 'Roboto', sans-serif;}
+
+.banner{display: flex;
+
+    margin-bottom: 15%;
+}
+
+.width{width: 50%;
+
+    padding-left: 2%;
+
+}
+
+.width img{
+            width: 60%;
+}
