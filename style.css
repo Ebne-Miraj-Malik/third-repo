@@ -5,7 +5,7 @@
 h1{font-size: 50 px;
     color: gray;
 }
- p{color: gray;}
+ .blue{color: rgb(226, 116, 14);}
 body{font-family: 'Roboto', sans-serif;
 
     margin:0;}
@@ -22,7 +22,7 @@ body{font-family: 'Roboto', sans-serif;
 }
 
 .width img{
-            width: 70%;
+            width: 90%;
 }
 
 .link{
@@ -46,7 +46,7 @@ body{font-family: 'Roboto', sans-serif;
 }
 
 .half-width img{
-    width: 70%;
+    width: 90%;
 }
 
 .button{background-color: rgb(175, 207, 202);
@@ -56,15 +56,21 @@ border-radius:20%;
 color: white;
 font-weight: 700;}
 
+.red{color: rgb(10, 228, 162);}
 
 
  .about{ background-image: url(image/7.png);
 background-repeat: no-repeat;
-
 }
 
-
-
+.recipies{
+    text-align: center;
+   color: tomato;
+}
+.paragarhp{
+    text-align: center;
+    color: teal;
+}
   
 
 
