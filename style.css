@@ -1,7 +1,9 @@
 .color{color: chocolate;}
 
-h1{font-size: 50 px;}
-
+h1{font-size: 50 px;
+    color: gray;
+}
+ p{color: gray;}
 body{font-family: 'Roboto', sans-serif;}
 
 .banner{display: flex;
@@ -16,5 +18,19 @@ body{font-family: 'Roboto', sans-serif;}
 }
 
 .width img{
-            width: 60%;
+            width: 80%;
 }
+
+.link{
+    background-color: rgb(240, 166, 7);
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 20%;
+    color: white;
+    font-weight: 700;
+}
+
+
+  
+
+
