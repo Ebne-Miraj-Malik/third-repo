@@ -1,10 +1,14 @@
 .color{color: chocolate;}
 
+
+
 h1{font-size: 50 px;
     color: gray;
 }
  p{color: gray;}
-body{font-family: 'Roboto', sans-serif;}
+body{font-family: 'Roboto', sans-serif;
+
+    margin:0;}
 
 .banner{display: flex;
 
@@ -18,17 +22,47 @@ body{font-family: 'Roboto', sans-serif;}
 }
 
 .width img{
-            width: 80%;
+            width: 70%;
 }
 
 .link{
-    background-color: rgb(240, 166, 7);
+    background-color: rgb(185, 178, 169);
     text-decoration: none;
     padding: 10px 20px;
-    border-radius: 20%;
+    border-radius: 35%;
     color: white;
-    font-weight: 700;
+    font-weight: 800;
 }
+
+.about{display: flex;
+
+    margin-bottom: 15%;
+}
+
+.half-width{width: 50%;
+
+    padding-left: 2%;
+
+}
+
+.half-width img{
+    width: 70%;
+}
+
+.button{background-color: rgb(175, 207, 202);
+text-decoration: none;
+padding:10px 20px;
+border-radius:20%;
+color: white;
+font-weight: 700;}
+
+
+
+ .about{ background-image: url(image/7.png);
+background-repeat: no-repeat;
+
+}
+
 
 
   
