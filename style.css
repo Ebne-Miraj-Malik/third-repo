@@ -56,7 +56,7 @@ border-radius:20%;
 color: white;
 font-weight: 700;}
 
-.red{color: rgb(10, 228, 162);}
+.red{color: rgb(87, 174, 231);}
 
 
  .about{ background-image: url(image/7.png);
@@ -69,8 +69,8 @@ background-repeat: no-repeat;
 }
 .paragarhp{
     text-align: center;
-    color: teal;
+    color: rgb(60, 68, 58);
+    padding-left: 20%;
+    padding-right: 20%;
 }
   
-
-
