@@ -73,4 +73,31 @@ background-repeat: no-repeat;
     padding-left: 20%;
     padding-right: 20%;
 }
-  
+
+
+.cover img{width: 80%;
+    
+}
+.cover{width: 20%;
+
+    padding-left: 2% ;
+}
+
+.black{color: black;}
+
+p{font-weight: 500;
+color: gray;}
+
+.flexible-container{
+    display: flex;
+    margin-bottom:15%
+}
+
+.cover{ box-shadow: 10px 10px 50px gray;  
+    width: 30%;
+    margin-left: 5%;
+    margin-right:5%;
+    padding-left:20px;
+border-radius: 20px;}
+
+
